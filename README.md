@@ -1,6 +1,4 @@
-# Crypto Payments Bot
-
-Centralized Crypto Payments for Telegram Bots or Websites
+# Title
 
 ## Requirements
 
